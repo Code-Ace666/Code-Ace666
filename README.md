@@ -108,18 +108,4 @@
 </div>
 ```
 
-This GitHub README.md version will display properly on your GitHub profile because it uses:
-
-1. **Markdown syntax** instead of HTML/CSS/JavaScript
-2. **GitHub-compatible badges** from shields.io
-3. **GitHub stats widgets** that work in README files
-4. **Proper image embedding** with supported services
-5. **Clean formatting** that renders correctly on GitHub
-
-To use this:
-1. Copy the content above
-2. Create or edit your `README.md` file in your GitHub username repository (e.g., `Code-Ace666/Code-Ace666`)
-3. Paste the content and commit the changes
-
-The profile will now display beautifully on your GitHub profile page with working stats, badges, and proper formatting!
 
